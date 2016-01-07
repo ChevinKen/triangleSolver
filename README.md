@@ -1,2 +1,2 @@
 #The Triangle Solver
-This is a triangle colver program made by **Rohan D'Souza** and **Kevin Chen** using the java gui.
+This is a triangle solver program made by **Rohan D'Souza** and **Kevin Chen** using the java gui.
