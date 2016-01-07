@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Triangle
+{
+  private double[] angles;
+  private double[] sides;
+  public Triangle (angles, sides)
+  {
+    this.angles = angles;
+    this.sides = sides;
+  }
+}
